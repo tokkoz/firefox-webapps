@@ -46,4 +46,4 @@ Simple guide to create web apps using Firefox in elementary OS.
     - mousewheel.with_alt.delta_multiplier_y
 
 ## Credits
-<https://github.com/Zonnev/elementaryos-firefox-theme> from where i borrowed few lines of css.
+<https://github.com/Zonnev/elementaryos-firefox-theme> - from where i borrowed few lines of css.
