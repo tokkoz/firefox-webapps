@@ -37,6 +37,9 @@
 .tab-close-button {
   margin-inline-end: 6px !important;
   margin-inline-start: -4px !important;
+  height: 17px !important;
+  width: 17px !important;
+  margin-top: 2px !important;
 }
 .tab-content:not([pinned]) {
     -moz-box-direction: reverse !important;
