@@ -15,9 +15,8 @@ Simple guide to create web apps using Firefox in elementary OS.
     - Multiple Paste and Go Button (optional)
 
 4. customize UI
-    - Density: compact
     - Nav bar: remove everything
-    - Title bar: add Preferences, Downloads, Paste and Go after New Tab
+    - Title bar: add Preferences, Downloads, Paste and Go at the end and New Tab at the start
     - Bookmarks Toolbar: Never Show
 
 5. change settings in `about:config`
